@@ -1,0 +1,9 @@
+install selenium library package for Scraping the data
+before run the written code first we have to install cromedriver.exe file on your python
+for install open python promt
+    1 go to the cromedriver.exe file directory
+    2. write cromedriver.exe and press enter it will installed in system
+
+
+for veiw the scraped data in dataframe 
+    use pandas library

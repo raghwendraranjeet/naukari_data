@@ -1,0 +1,9 @@
+selenium:
+  chromedriver_path: "C://Users//rkran//Downloads//Naukri data Banglore//chromedriver_win32//chromedriver.exe"
+
+scraping:
+  url: "https://www.naukri.com/jobs-in-bangalore-1"
+  job_count: 10
+
+file_paths:
+  output_csv: "C://Users//rkran//Downloads//Naukri data Banglore//Naukri_Bangalore.csv"
